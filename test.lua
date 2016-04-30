@@ -1,2 +1,2 @@
-var = 50.53;
-print("Hello from Lua !")
+width = 500;
+height = 500;
