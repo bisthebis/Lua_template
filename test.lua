@@ -1,2 +1,5 @@
-width = 500;
-height = 500;
+function hello(ratio)
+    print("Hello")
+    return func(ratio)
+end
+
